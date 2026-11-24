@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QRVault</string>
+    <string name="nav_scanner">Сканер</string>
+    <string name="nav_history">Історія</string>
+    <string name="nav_settings">Параметри</string>
+
+    <string name="scanner_hint">Наведіть рамку на QR-код</string>
+    <string name="camera_permission_rationale">Для сканування QR-кодів потрібен доступ до камери.</string>
+    <string name="scan_saved_snackbar">QR-код збережено в історію</string>
+
+    <string name="history_search_hint">Пошук сканувань...</string>
+    <string name="history_empty">Історія сканувань порожня</string>
+
+    <plurals name="scan_count">
+        <item quantity="one">%d збережене сканування</item>
+        <item quantity="few">%d збережені сканування</item>
+        <item quantity="many">%d збережених сканувань</item>
+        <item quantity="other">%d збережених сканувань</item>
+    </plurals>
+
+    <string name="action_copy">Копіювати</string>
+    <string name="action_open_url">Відкрити посилання</string>
+    <string name="action_delete">Видалити</string>
+
+    <string name="settings_language">Мова застосунку</string>
+    <string name="settings_theme">Оформлення</string>
+    <string name="settings_clear_history">Очистити історію</string>
+</resources>
