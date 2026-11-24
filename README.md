@@ -15,10 +15,3 @@ Android-застосунок для сканування QR-кодів, деко
 2. Дочекайтеся синхронізації Gradle Sync (JDK 17).
 3. Запустіть модуль `:app` на фізичному пристрої або емуляторі (API 26+).
 
-## Публікація у віддалений Git-репозиторій
-```bash
-chmod +x setup-git-history.sh
-./setup-git-history.sh
-git remote add origin https://github.com/<username>/qrvault-android.git
-git push -u origin main
-```
